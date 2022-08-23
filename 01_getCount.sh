@@ -3,8 +3,14 @@
 #Exit program if any erro accurs
 set -o errexit
 
-echo "*************************************** Starting Process ***************************************"
+echo "************************************************************************************************"
+echo "                          W3110_PG-1 Workflow - Part 1 - Count reads"
+echo "************************************************************************************************"
+echo " "
+echo " "
 
+echo "*************************************** Starting Process ***************************************"
+echo " "
 
 FASTQ=/stor/work/Wilke/luiz/slay_seq/W3110_PG1/rawFastq
 OUTDIR=/stor/work/Wilke/luiz/slay_seq/W3110_PG1/data

@@ -1,7 +1,7 @@
 ---
-title: "Workflow W3110_PG-1 - Part 2, Differential Expression Analysis with DESeq2"
+title: "W3110_PG-1 Workflow - Part 2, Differential Expression Analysis with DESeq2"
 author: "Luiz Carlos Vieira"
-date: "07/08/2022"
+date: "08/20/2022"
 output:
   html_document:
     df_print: paged
