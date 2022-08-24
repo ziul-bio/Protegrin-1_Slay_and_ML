@@ -25,9 +25,11 @@ To run this script you will need [seqkit](https://bioinf.shenwei.me/seqkit/) ins
 
 ### Differential Expression Analysis
 
-The differential analysis was done in R with [Deseq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), described in the notebook [deseq2_analysis.rmd](https://github.com/ziul-bio/Slay-seq_W3110_PG-1/blob/main/02_Analyse_Deseq2.Rmd). All the code are commented, feel free to change the parameter to suit your data and needs.
+The differential analysis was done in R with [Deseq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html), described in the notebook [deseq2_analysis.rmd](https://github.com/ziul-bio/Slay-seq_W3110_PG-1/blob/main/02_Analyse_Deseq2.Rmd).  
 
 ### Compute Changes in the Peptides Sequence
 
 We translated the peptide sequences with the [biopython translate function](https://biopython.org/docs/1.75/api/Bio.Seq.html), and compute the differences on the sequence with the reference protegrin-1 protein using a custom python script, described on [translate_and_compute_changes_in_peptides.ipynb](https://github.com/ziul-bio/Slay-seq_W3110_PG-1/blob/main/03_translate_and_compute_changes_in_peptides.ipynb).
 
+
+All the code are commented so feel free to change the parameters to suit your data and needs.
