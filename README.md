@@ -11,7 +11,7 @@ Antimicrobials through Bacterial Self-Screening of Surface-Displayed Peptide Lib
 
 Some changes were applied in the pipeline to fit the new data.  
 
-Here we describe all the steps required to reproduce the analysis.  
+Here we describe all the steps required to reproduce the analysis on the paper "Deep mutational scanning and machine learning reveal sequence-structure-function relationships related to antimicrobial peptide membrane selectivity", Author Justin R. Randall.  
 
 
 ## Workflow
