@@ -3,7 +3,7 @@
 <img width="120px" alt="Slay logo" align="right" src="figures/logo.png">
 
 
-# W3110_PG-1 Project 
+# Deep mutational scanning and machine learning of Protegrin-1 
 
 
 This workflow is based on the paper "Tucker et al., Cell. 2018. Discovery of Next-Generation   
