@@ -3,7 +3,7 @@
 <img width="120px" alt="Slay logo" align="right" src="figures/logo.png">
 
 
-# Deep mutational scanning and machine learning of Protegrin-1 
+# Deep mutational scanning and machine learning uncover antimicrobial peptide features driving membrane selectivity 
 
 
 This workflow is based on the paper "Tucker et al., Cell. 2018. Discovery of Next-Generation   
@@ -11,12 +11,12 @@ Antimicrobials through Bacterial Self-Screening of Surface-Displayed Peptide Lib
 
 Some changes were applied in the pipeline to fit the new data.  
 
-Here we describe all the steps required to reproduce the analysis on the paper "Deep mutational scanning and machine learning reveal sequence-structure-function relationships related to antimicrobial peptide membrane selectivity", Author Justin R. Randall.  
+Here we describe all the steps required to reproduce the analysis on the paper "Deep mutational scanning and machine learning uncover antimicrobial peptide features driving membrane selectivity", Author Justin R. Randall.  
 
 
 ## Workflow
 
-This work flow is divided in 3 parts, get counts, differencial expression analysis and compute changes in the peptides.
+This work flow is divided in 2 parts, part1 - Deep mutational scanning and part2 - machine learning.
 
 ### Get Counts
 
