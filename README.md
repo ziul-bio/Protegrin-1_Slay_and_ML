@@ -16,7 +16,7 @@ Here we describe all the steps required to reproduce the analysis on the paper "
 
 ## Workflow
 
-This work flow is divided in 2 parts, part1 - Deep mutational scanning and part2 - machine learning.
+This work flow is divided in 2 parts. Part1 - Deep mutational scanning and Part2 - machine learning.
 
 ### Get Counts
 
