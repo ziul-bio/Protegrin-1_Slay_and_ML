@@ -6,6 +6,9 @@
 # Deep mutational scanning and machine learning uncover antimicrobial peptide features driving membrane selectivity 
 
 
+## THIS IS A OLD VERSION OF THE REPOSITORY, PLEASE REFER TO THE UPDATED VERSION AT: [LATEST VERSION](https://github.com/ziul-bio/DMS_ML_AMP)
+
+
 This workflow is based on the paper "Tucker et al., Cell. 2018. Discovery of Next-Generation   
 Antimicrobials through Bacterial Self-Screening of Surface-Displayed Peptide Libraries". [Link](https://www.cell.com/cell/fulltext/S0092-8674(17)31451-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417314514%3Fshowall%3Dtrue)
 
